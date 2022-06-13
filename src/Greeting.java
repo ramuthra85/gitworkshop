@@ -4,6 +4,6 @@ public class Greeting {
     }
 
     public static void greet() {
-        System.out.println("Szevasz Varga Tamás");
+        System.out.println("Greetings!");
     }
 }
