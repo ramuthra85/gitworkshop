@@ -1,12 +1,12 @@
 public class Count {
     public static void main(String[] args) {
 
-        count();
+        count(37);
 
     }
 
-        public static void count() {
-            System.out.println("My age is 37");
+        public static void count(int age) {
+            System.out.println("My age is " + age);
         }
     }
 
