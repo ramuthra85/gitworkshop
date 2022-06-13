@@ -3,7 +3,7 @@ public class Greeting {
         System.out.println("Csáááóóóó!");
     }
 
-    public static void greet(String name) {
-        System.out.println("Szevasz " + name);
+    public static void greet(String firstName, String lastName) {
+        System.out.println("Szevasz, " + firstName + " " + lastName + "!");
     }
 }
