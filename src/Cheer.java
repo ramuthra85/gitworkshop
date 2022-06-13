@@ -4,7 +4,7 @@ public class Cheer {
     }
 
     public static void cheer(String name, int number) {
-        System.out.println("Apocalyptica" + name + number);
+        System.out.println("Apocalyptica bazze" + name + number);
 
     }
 }
