@@ -1,9 +1,9 @@
 public class Cheer {
     public static void main(String[] args) {
-        cheer();
+        cheer("Java");
     }
 
-    public void cheer(String name) {
-        System.out.println("Apocalyptica" + name);
+    public static void cheer(String name) {
+        System.out.println("Apocalyptica " + name);
     }
 }
