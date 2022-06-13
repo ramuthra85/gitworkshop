@@ -4,6 +4,6 @@ public class Cheer {
     }
 
     public static void cheer(String name) {
-        System.out.println("Apocalyptica  " + name);
+        System.out.println("Apocalyptica " + name);
     }
 }
