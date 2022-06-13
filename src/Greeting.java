@@ -4,6 +4,6 @@ public class Greeting {
     }
 
     public static void greet(String firstName, String lastName) {
-        System.out.println("Szevasz, " + firstName + " " + lastName + "!");
+        System.out.println("Greetings for the " + firstName + " " + lastName + "!");
     }
 }
