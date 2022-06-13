@@ -3,7 +3,7 @@ public class Cheer {
         cheer();
     }
 
-    public static void cheer() {
-        System.out.println("Apocalyptica");
+    public static void cheer(String name) {
+        System.out.println("Apocalyptica" + name);
     }
 }
